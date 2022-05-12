@@ -1,6 +1,7 @@
 body {
   background-color: black;
   text-align: center;
+  padding: 4rem;
 }
 span {
   font-size: 50px;
