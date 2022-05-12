@@ -1,0 +1,88 @@
+body {
+  background-color: black;
+  text-align: center;
+}
+span {
+  font-size: 50px;
+}
+
+#q {
+  font-family: Arial, Helvetica, sans-serif;
+  color: chartreuse;
+}
+#w {
+  font-family: "Permanent Marker", cursive;
+  color: chocolate;
+}
+#e {
+  font-family: "Poppins", sans-serif;
+  color: darkred;
+}
+#r {
+  font-family: "Pacifico", cursive;
+  color: deeppink;
+}
+#t {
+  font-family: "La Belle Aurore", cursive;
+  color: darkviolet;
+}
+#z {
+  font-family: "Butcherman", cursive;
+  color: greenyellow;
+}
+#u {
+  color: magenta;
+  font-family: "Ballet", cursive;
+}
+#i {
+  color: tomato;
+  font-family: "Indie Flower", cursive;
+}
+#o {
+  color: yellow;
+  font-family: "Rock 3D", cursive;
+}
+#p {
+  color: powderblue;
+  font-family: "Geostar", cursive;
+}
+#a {
+  color: darkblue;
+  font-family: "Redacted Script", cursive;
+}
+#s {
+  color: hotpink;
+  font-family: "Warnes", cursive;
+}
+#d {
+  color: gold;
+  font-family: "Petit Formal Script", cursive;
+}
+#f {
+  color: lawngreen;
+  font-family: "Macondo", cursive;
+}
+#g {
+  color: lightseagreen;
+  font-family: "Water Brush", cursive;
+}
+#h {
+  color: darkorange;
+  font-family: "Source Code Pro", monospace;
+}
+#j {
+  color: fuchsia;
+  font-family: "Shadows Into Light", cursive;
+}
+#k {
+  color: greenyellow;
+  font-family: "Cormorant Garamond", serif;
+}
+#l {
+  color: darkolivegreen;
+  font-family: "Rajdhani", sans-serif;
+}
+#y {
+  color: crimson;
+  font-family: "Smokum", cursive;
+}
